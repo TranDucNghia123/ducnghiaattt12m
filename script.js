@@ -9,5 +9,5 @@ function login()
   }
   else
         {
-      window.open("saimk.html")
+      window.open("saimk.html")}
 }
