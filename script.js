@@ -7,7 +7,7 @@ function login()
     window.open("house.html")
     document.getElementById(compiler).style.display="block"
   }
-  else (t!="ducnghia" && m!="0108)
+  else
         {
-        <label> Wrong password or username</label>
+      window.open("saimk.html")
 }
