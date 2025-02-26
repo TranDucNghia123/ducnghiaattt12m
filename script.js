@@ -2,7 +2,7 @@ function login()
 {
   let t= tendangnhap.value
   let m= matkhau.value
-  if (t=="ducnghia" && m=="0108")
+  if (t=="kt" && m=="1406")
   {
     window.open("house.html")
     document.getElementById(compiler).style.display="block"
