@@ -4,7 +4,7 @@ function login()
   let m= matkhau.value
   if (t=="kt" && m=="1406")
   {
-    window.open("house.html")
+    window.open("index1.html")
     document.getElementById(compiler).style.display="block"
   }
   else
