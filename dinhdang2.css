@@ -1,5 +1,5 @@
 .phandau{color:tomato;background-color:black;text-align:center;padding:50px}
 .thucdon{float:left;color:black;background-color:white;text-align:center;padding:50px}
 .thucdon a{display:block;color:black;background-color:white}
-.thucdon a:hover{color:white;background-color:black}
+.thucdon a:hover{color:white;background-color:black;display:block}
 .noidung{color:purple;background-color:yellow}
